@@ -9,7 +9,6 @@ Record various development encountered in the different bug, brainstorming, less
 
 遇到问题，解决问题，记录问题，分享问题，共享时间成本，省的Google/百度急的满头大汗
 
-
 # 怎么参与
 在issues贴上你的bug和bug的解决思路即可，尽可能的详细，如果有博客说明也可以贴上你的博客地址，或者公众号
 
@@ -20,4 +19,4 @@ Mainly used to collect bugs
 Pool the power of open source, let everybody less detour
 Encounter problems, solve problems, record problems, share problems, share time costs, save Google/ baidu sweat
 # how to participate
-Issue in your bug and bug solution ideas can be posted, as detailed as possible, if there is a blog explanation can also be posted to your blog address, or the public number
+Issue in your bug and bug solution ideas can be posted, as detailed as possible, if there is a blog explanation can also be posted to your blog address, or the public number，or twitter,facebook count.
