@@ -14,8 +14,8 @@ Record various development encountered in the different bug, brainstorming, less
 # 提交格式
 开发语言或者开发类型：提的问题
 举例： Android：xxxxxxxx
-      Java:xxxxxxxxx
-      ios:xxxxxxxxxxxx
+Java:xxxxxxxx
+ios:xxxxxxxxxxxx
 
 
 
@@ -25,3 +25,8 @@ Pool the power of open source, let everybody less detour
 Encounter problems, solve problems, record problems, share problems, share time costs, save Google/ baidu sweat
 # how to participate
 Issue in your bug and bug solution ideas can be posted, as detailed as possible, if there is a blog explanation can also be posted to your blog address, or the public number，or twitter,facebook count.
+# submit format
+Development language or type of development: the question asked
+Example: Android: XXXXXXXX
+Java: XXXXXXXX
+Ios: XXXXXXXXXXXX
