@@ -1,0 +1,2 @@
+此文件用于提交Android开发者，或者你对Android想说的话，留名，匿名都可
+提交格式：地区+Android+名称+公司(可填可不填) 。比如：上海+Android+marcus+xx公司
