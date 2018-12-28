@@ -11,6 +11,11 @@ Record various development encountered in the different bug, brainstorming, less
 
 # 怎么参与
 在issues贴上你的bug和bug的解决思路即可，尽可能的详细，如果有博客说明也可以贴上你的博客地址，或者公众号
+# 提交格式
+开发语言或者开发类型：提的问题
+举例： Android：xxxxxxxx
+      Java:xxxxxxxxx
+      ios:xxxxxxxxxxxx
 
 
 
