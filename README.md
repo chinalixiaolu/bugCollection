@@ -12,10 +12,10 @@ Record various development encountered in the different bug, brainstorming, less
 # 怎么参与
 在issues贴上你的bug和bug的解决思路即可，尽可能的详细，如果有博客说明也可以贴上你的博客地址，或者公众号
 # 提交格式
-开发语言或者开发类型：提的问题
-举例： Android：xxxxxxxx
-Java:xxxxxxxx
-ios:xxxxxxxxxxxx
+开发语言或者开发类型：提的问题 
+举例： Android：xxxxxxxx,              
+Java:xxxxxxxx,             
+ios:xxxxxxxxxxxx,             
 
 
 
@@ -27,6 +27,6 @@ Encounter problems, solve problems, record problems, share problems, share time 
 Issue in your bug and bug solution ideas can be posted, as detailed as possible, if there is a blog explanation can also be posted to your blog address, or the public number，or twitter,facebook count.
 # submit format
 Development language or type of development: the question asked
-Example: Android: XXXXXXXX
-Java: XXXXXXXX
-Ios: XXXXXXXXXXXX
+Example: Android: XXXXXXXX,           
+Java: XXXXXXXX,              
+Ios: XXXXXXXXXXXX,           
